@@ -28,7 +28,7 @@
 
 ## Tools and Technologies I Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=bash, js, html, css, c, shield-alt)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c,shield-alt)](https://skills.thijs.gg)
 
 <!-- <i class="fab fa-bash"></i> Bash
 <i class="fab fa-js"></i> JavaScript
