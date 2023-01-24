@@ -10,15 +10,15 @@
 
 
 
-**Hey 👋 I'm Elmus Ismael** 
+## **Hey 👋 I'm Elmus Ismael** 
 
-*Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion. I work on, and around Websites*
+*Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion :nerd_face:. I work on, and around Websites*
 
 *I'm passionate about using technology to automate tasks and make my work more efficient. I enjoy working with mainly Bash, JavaScript, and C*
 
 
 ## My skills
-- Terminal, the Shell
+- Terminal, The Shell
 - JavaScript
 - CSS
 - C
@@ -34,17 +34,18 @@
 ## Tools and Technologies I Use
 
 [![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c)](https://skills.thijs.gg)
-<i class="fab fa-bash"></i> Bash
+
+<!-- <i class="fab fa-bash"></i> Bash
 <i class="fab fa-js"></i> JavaScript
 <i class="devicon-c-plain"></i> C
 <i class="fab fa-css3-alt"></i> CSS
 <i class="fab fa-html5"></i> HTML
-<i class="fas fa-shield-alt"></i> Cybersecurity
+<i class="fas fa-shield-alt"></i> Cybersecurity -->
 
 
 ## Get in touch
 
-If you're interested in connecting with me, you can reach out to me on LinkedIn, Twitter, or Facebook. Additionally, feel free to contact me if you have any questions or want to discuss any projects related to Terminal, JavaScript, CSS, or C. Thank you for your interest!
+If you're interested in connecting with me, you can reach out on LinkedIn, Twitter, or Facebook. Additionally, feel free to contact me if you have any questions or want to discuss any projects related to Bash, JavaScript, CSS, or C. Thank you for your interest! :handshake:
 
 **Connect with me on:**
 
