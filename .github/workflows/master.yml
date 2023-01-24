@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * 0'
+    - cron: '0 * * * 0'
 
 env:
   BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
