@@ -3,19 +3,6 @@
 <!-- Tools icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIr9kqCFjGj9UyjxjtJ1WVkLp8pjYBMoAoHkvWLAgY+8EQ0LogjGjy8DZtJcnZjHg==" crossorigin="anonymous" />
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
-
-<link rel="stylesheet" href=
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css">
-
-<head>
-<link rel="stylesheet" href=
-"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css">
-</link>
-</head>
-
 
 
 ## **Hey 👋 I'm Elmus Ismael** 
@@ -41,7 +28,7 @@
 
 ## Tools and Technologies I Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c,shield-alt)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bash, js, html, css, c, shield-alt)](https://skills.thijs.gg)
 
 <!-- <i class="fab fa-bash"></i> Bash
 <i class="fab fa-js"></i> JavaScript
