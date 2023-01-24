@@ -49,7 +49,7 @@ If you're interested in connecting with me, you can reach out on LinkedIn, Twitt
 
 **Connect with me on:**
 
-<i class="fab fa-twitter"></i> [Twitter](https://https://twitter.com/IElmus)
+<i class="fab fa-twitter"></i> [Twitter](https://twitter.com/IElmus)
 
 <i class="fab fa-facebook"></i> [Facebook](https://www.facebook.com/profile.php?id=100005090839336)
 
