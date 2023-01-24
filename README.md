@@ -12,7 +12,7 @@
 
 ## **Hey 👋 I'm Elmus Ismael** 
 
-*Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion :nerd_face:. I work on, and around Websites*
+*Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion :nerd_face:.   I also work on, and around Websites*
 
 *I'm passionate about using technology to automate tasks and make my work more efficient. I enjoy working with mainly Bash, JavaScript, and C*
 
@@ -33,7 +33,7 @@
 
 ## Tools and Technologies I Use
 
-[![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c,shield-alt)](https://skills.thijs.gg)
 
 <!-- <i class="fab fa-bash"></i> Bash
 <i class="fab fa-js"></i> JavaScript
