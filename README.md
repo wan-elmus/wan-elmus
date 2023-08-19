@@ -9,13 +9,13 @@
 
 *Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion :nerd_face:.   I also work on, and around Websites*
 
-*I'm passionate about using technology to automate tasks and make my work more efficient. I enjoy working with mainly Bash, JavaScript, and C*
+*I'm passionate about using technology to automate tasks and make my work more efficient. I enjoy working with mainly Python, Bash, JavaScript, and C*
 
 
 ## My skills
 - Terminal, The Shell
-- JavaScript
-- CSS
+- Web scrapping (details/images...pretty much anything)
+- Javascript
 - C
 - Cybersecurity (Network sec and Pen-testing) still coming along
  
@@ -35,6 +35,7 @@
 <i class="devicon-c-plain"></i> C
 <i class="fab fa-css3-alt"></i> CSS
 <i class="fab fa-html5"></i> HTML
+<i class="fab fa-python"></i>Python
 <i class="fas fa-shield-alt"></i> Cybersecurity -->
 
 
