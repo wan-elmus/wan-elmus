@@ -1,57 +1,41 @@
-<!-- social-media icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-<!-- Tools icons -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
+## Hey 👋 I'm Elmus Ismael
 
+Just like an Eskimo in an igloo, I live in the terminal; the shell my abode.  
+When I’m not writing scripts, I’m building web apps or poking around networks.
 
+### What I work with
+- Bash & shell scripting (still my favorite)
+- Python - automation, data, ML, FastAPI backends
+- Full-stack core: Next.js, FastAPI, PostgreSQL
+- JavaScript / TypeScript
+- C when I want to feel pain again 
+- Cybersecurity - pentesting, network security, scripting exploits
 
-## **Hey 👋 I'm Elmus Ismael** 
+### My Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,python,typescript,nextjs,fastapi,postgres,nodejs,git,linux,docker,nginx,redis,kali,vim,neovim&perline=9&theme=dark" />
+</p>
 
-*Just like an Eskimo in an Igloo, I live in the Terminal, the shell my abode and bourne-again shell <bash> my religion :nerd_face:.   I also work on, and around Websites*
+### GitHub in numbers
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wan-elmus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wan-elmus&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-*I'm passionate about using technology to automate tasks and make my work more efficient. I enjoy working with mainly Python, Bash, JavaScript, and C*
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wan-elmus&theme=tokyonight&hide_border=true" />
+</div>
 
+### HMU
+<div align="center">
 
-## My skills
-- Terminal, The Shell
-- Web scrapping (details/images...pretty much anything)
-- Javascript
-- C
-- Cybersecurity (Network sec and Pen-testing) still coming along
- 
-## My stats
-![My GitHub contributions](https://github-readme-stats.vercel.app/api?username=wan-elmus&count_private=true&show_icons=true&theme=radical)
+[![Twitter](https://img.shields.io/badge/-@elmus__-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/elmus__)
+[![LinkedIn](https://img.shields.io/badge/-Elmus_Ismael-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elmus-ismael-153568232/)
+[![Email](https://img.shields.io/badge/-elmuswangudi@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elmuswangudi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+254114937798)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wan-elmus&layout=compact)]
-<!-- (https://github.com/wan-elmus/github-readme-stats) -->
+</div>
 
-
-## Tools and Technologies I Use
-
-[![My Skills](https://skills.thijs.gg/icons?i=bash,js,html,css,c,shield-alt)](https://skills.thijs.gg)
-
-<!-- <i class="fab fa-bash"></i> Bash
-<i class="fab fa-js"></i> JavaScript
-<i class="devicon-c-plain"></i> C
-<i class="fab fa-css3-alt"></i> CSS
-<i class="fab fa-html5"></i> HTML
-<i class="fab fa-python"></i>Python
-<i class="fas fa-shield-alt"></i> Cybersecurity -->
-
-
-## Get in touch
-
-If you're interested in connecting with me, you can reach out on LinkedIn, Twitter, or Facebook. Additionally, feel free to contact me if you have any questions or want to discuss any projects related to Bash, JavaScript, CSS, or C. Thank you for your interest! :handshake:
-
-**Connect with me on:**
-
-<i class="fa-brands fa-twitter"></i> [Twitter](https://twitter.com/IElmus)
-
-<i class="fab fa-facebook"></i> [Facebook](https://www.facebook.com/profile.php?id=100005090839336)
-
-<i class="fab fa-linkedin"></i> [Linkedin](https://www.linkedin.com/in/elmus-ismael-153568232/)
-
-<a href="mailto:elmuswangudi@gmail.com"> <i class="fab fa-envelope"></i> Email me</a>
-
-<a href="https://api.whatsapp.com/send?phone=+254114937798"> <i class="fab fa-whatsapp"></i> WhatsApp me</a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wan-elmus&color=brightgreen" />
+</p>
