@@ -20,7 +20,7 @@
     <img src="https://skillicons.dev/icons?i=bash,python,js,nextjs,fastapi,postgres,nodejs,tailwind,git,linux,docker,nginx,redis,kali&perline=10&theme=dark" />
   </p>
 
-  <<h3 align="center">GitHub in numbers</h3>
+  <h3 align="center">GitHub in numbers</h3>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wan-elmus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
   </p>
