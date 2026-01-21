@@ -1,8 +1,8 @@
 <p align="center">
   <h1 align="center">Hey 👋 I'm Elmus Ismael</h1>
   <p align="center">
-    Just like an Eskimo in an igloo, I live in the terminal; the shell is my abode.<br>
-    When not writing scripts, I'm building web-apps or poking around networks.
+    Just like an Eskimo in an igloo, I live in the terminal; the shell my abode.<br>
+    <!-- When not writing scripts, I'm building web-apps or poking around networks. -->
   </p>
 
   <h3 align="center">What I work with</h3>
